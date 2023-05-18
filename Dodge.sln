@@ -1,0 +1,19 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dodge", "Dodge.csproj", "{ACBEC042-775C-4408-BC90-F06AE91AC547}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	Debug|Any CPU = Debug|Any CPU
+	ExportDebug|Any CPU = ExportDebug|Any CPU
+	ExportRelease|Any CPU = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACBEC042-775C-4408-BC90-F06AE91AC547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACBEC042-775C-4408-BC90-F06AE91AC547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACBEC042-775C-4408-BC90-F06AE91AC547}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{ACBEC042-775C-4408-BC90-F06AE91AC547}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{ACBEC042-775C-4408-BC90-F06AE91AC547}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{ACBEC042-775C-4408-BC90-F06AE91AC547}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+	EndGlobalSection
+EndGlobal

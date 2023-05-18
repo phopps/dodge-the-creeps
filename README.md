@@ -1,10 +1,10 @@
 # [Dodge the Creeps](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html)
 
-- [ ] **[Setting up the project](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/01.project_setup.html#setting-up-the-project)**
-- [ ] [Organizing the project](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/01.project_setup.html#organizing-the-project)
-- [ ] **[Creating the player scene](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/02.player_scene.html)**
-- [ ] [Node structure](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/02.player_scene.html#node-structure)
-- [ ] [Sprite animation](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/02.player_scene.html#sprite-animation)
+- [x] **[Setting up the project](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/01.project_setup.html#setting-up-the-project)**
+- [x] [Organizing the project](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/01.project_setup.html#organizing-the-project)
+- [x] **[Creating the player scene](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/02.player_scene.html)**
+- [x] [Node structure](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/02.player_scene.html#node-structure)
+- [x] [Sprite animation](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/02.player_scene.html#sprite-animation)
 - [ ] **[Coding the player](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/03.coding_the_player.html)**
 - [ ] [Choosing animations](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/03.coding_the_player.html#choosing-animations)
 - [ ] [Preparing for collisions](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/03.coding_the_player.html#preparing-for-collisions)
