@@ -1,0 +1,12 @@
+[gd_scene format=3 uid="uid://00gdrjurq008"]
+
+[node name="Mob" type="RigidBody2D"]
+collision_mask = 0
+gravity_scale = 0.0
+metadata/_edit_group_ = true
+
+[node name="Sprite" type="AnimatedSprite2D" parent="."]
+
+[node name="Collision" type="CollisionShape2D" parent="."]
+
+[node name="Notifier" type="VisibleOnScreenNotifier2D" parent="."]

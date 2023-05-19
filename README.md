@@ -7,8 +7,8 @@
 - [x] [Sprite animation](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/02.player_scene.html#sprite-animation)
 - [x] **[Coding the player](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/03.coding_the_player.html)**
 - [x] [Choosing animations](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/03.coding_the_player.html#choosing-animations)
-- [ ] [Preparing for collisions](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/03.coding_the_player.html#preparing-for-collisions)
-- [ ] **[Creating the enemy](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/04.creating_the_enemy.html)**
+- [x] [Preparing for collisions](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/03.coding_the_player.html#preparing-for-collisions)
+- [x] **[Creating the enemy](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/04.creating_the_enemy.html)**
 - [ ] [Node setup](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/04.creating_the_enemy.html#node-setup)
 - [ ] [Enemy script](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/04.creating_the_enemy.html#enemy-script)
 - [ ] **[The main game scene](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/05.the_main_game_scene.html)**
