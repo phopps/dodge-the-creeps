@@ -6,7 +6,7 @@
 - [x] [Node structure](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/02.player_scene.html#node-structure)
 - [x] [Sprite animation](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/02.player_scene.html#sprite-animation)
 - [x] **[Coding the player](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/03.coding_the_player.html)**
-- [ ] [Choosing animations](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/03.coding_the_player.html#choosing-animations)
+- [x] [Choosing animations](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/03.coding_the_player.html#choosing-animations)
 - [ ] [Preparing for collisions](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/03.coding_the_player.html#preparing-for-collisions)
 - [ ] **[Creating the enemy](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/04.creating_the_enemy.html)**
 - [ ] [Node setup](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/04.creating_the_enemy.html#node-setup)
