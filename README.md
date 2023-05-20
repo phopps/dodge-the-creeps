@@ -15,12 +15,12 @@
 - [x] [Spawning mobs](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/05.the_main_game_scene.html#spawning-mobs)
 - [x] [Main script](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/05.the_main_game_scene.html#main-script)
 - [x] [Testing the scene](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/05.the_main_game_scene.html#testing-the-scene)
-- [ ] **[Heads up display](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/06.heads_up_display.html)**
-- [ ] [ScoreLabel](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/06.heads_up_display.html#scorelabel)
-- [ ] [Message](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/06.heads_up_display.html#message)
-- [ ] [StartButton](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/06.heads_up_display.html#startbutton)
-- [ ] [Connecting HUD to Main](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/06.heads_up_display.html#connecting-hud-to-main)
-- [ ] [Removing old creeps](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/06.heads_up_display.html#removing-old-creeps)
+- [x] **[Heads up display](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/06.heads_up_display.html)**
+- [x] [ScoreLabel](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/06.heads_up_display.html#scorelabel)
+- [x] [Message](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/06.heads_up_display.html#message)
+- [x] [StartButton](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/06.heads_up_display.html#startbutton)
+- [x] [Connecting HUD to Main](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/06.heads_up_display.html#connecting-hud-to-main)
+- [x] [Removing old creeps](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/06.heads_up_display.html#removing-old-creeps)
 - [ ] **[Finishing up](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/07.finishing-up.html#)**
 - [ ] [Background](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/07.finishing-up.html#background)
 - [ ] [Sound effects](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/07.finishing-up.html#sound-effects)
