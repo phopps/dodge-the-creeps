@@ -11,10 +11,10 @@
 - [x] **[Creating the enemy](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/04.creating_the_enemy.html)**
 - [x] [Node setup](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/04.creating_the_enemy.html#node-setup)
 - [x] [Enemy script](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/04.creating_the_enemy.html#enemy-script)
-- [ ] **[The main game scene](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/05.the_main_game_scene.html)**
-- [ ] [Spawning mobs](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/05.the_main_game_scene.html#spawning-mobs)
-- [ ] [Main script](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/05.the_main_game_scene.html#main-script)
-- [ ] [Testing the scene](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/05.the_main_game_scene.html#testing-the-scene)
+- [x] **[The main game scene](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/05.the_main_game_scene.html)**
+- [x] [Spawning mobs](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/05.the_main_game_scene.html#spawning-mobs)
+- [x] [Main script](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/05.the_main_game_scene.html#main-script)
+- [x] [Testing the scene](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/05.the_main_game_scene.html#testing-the-scene)
 - [ ] **[Heads up display](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/06.heads_up_display.html)**
 - [ ] [ScoreLabel](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/06.heads_up_display.html#scorelabel)
 - [ ] [Message](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/06.heads_up_display.html#message)
