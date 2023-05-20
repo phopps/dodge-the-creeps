@@ -8,7 +8,7 @@ public partial class Player : Area2D
 
   public override void _Ready()
   {
-    Hide();
+    // Hide();
     ScreenSize = GetViewportRect().Size;
   }
 
