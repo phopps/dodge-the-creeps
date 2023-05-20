@@ -7,7 +7,7 @@ public partial class Main : Node
 
   public override void _Ready()
   {
-    // NewGame();
+    GetNode<AudioStreamPlayer>("Music").Play();
   }
 
   public void NewGame()
@@ -21,6 +21,7 @@ public partial class Main : Node
     hud.UpdateScore(_score);
     hud.ShowMessage("Get Ready!");
     GetTree().CallGroup("mobs", Node.MethodName.QueueFree);
+    // GetNode<AudioStreamPlayer>("Music").Play();
   }
 
   public void GameOver()
@@ -28,6 +29,8 @@ public partial class Main : Node
     GetNode<Timer>("MobTimer").Stop();
     GetNode<Timer>("ScoreTimer").Stop();
     GetNode<HUD>("HUD").ShowGameOver();
+    // GetNode<AudioStreamPlayer>("Music").Stop();
+    GetNode<AudioStreamPlayer>("DeathSound").Play();
   }
 
   private void OnScoreTimerTimeout()

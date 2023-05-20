@@ -21,7 +21,7 @@
 - [x] [StartButton](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/06.heads_up_display.html#startbutton)
 - [x] [Connecting HUD to Main](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/06.heads_up_display.html#connecting-hud-to-main)
 - [x] [Removing old creeps](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/06.heads_up_display.html#removing-old-creeps)
-- [ ] **[Finishing up](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/07.finishing-up.html#)**
-- [ ] [Background](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/07.finishing-up.html#background)
-- [ ] [Sound effects](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/07.finishing-up.html#sound-effects)
-- [ ] [Keyboard shortcut](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/07.finishing-up.html#keyboard-shortcut)
+- [x] **[Finishing up](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/07.finishing-up.html#)**
+- [x] [Background](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/07.finishing-up.html#background)
+- [x] [Sound effects](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/07.finishing-up.html#sound-effects)
+- [x] [Keyboard shortcut](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/07.finishing-up.html#keyboard-shortcut)

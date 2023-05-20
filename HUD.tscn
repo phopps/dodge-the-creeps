@@ -1,7 +1,13 @@
-[gd_scene load_steps=3 format=3 uid="uid://dfs7t6q1hqt1s"]
+[gd_scene load_steps=5 format=3 uid="uid://dfs7t6q1hqt1s"]
 
 [ext_resource type="FontFile" uid="uid://dqontw5iyh75u" path="res://fonts/Xolonium-Regular.ttf" id="1_1snxi"]
 [ext_resource type="Script" path="res://HUD.cs" id="1_prgkv"]
+
+[sub_resource type="InputEventAction" id="InputEventAction_y36l6"]
+action = &"StartGame"
+
+[sub_resource type="Shortcut" id="Shortcut_bnn6p"]
+events = [SubResource("InputEventAction_y36l6")]
 
 [node name="HUD" type="CanvasLayer"]
 script = ExtResource("1_prgkv")
@@ -33,6 +39,7 @@ offset_bottom = 11.5
 grow_horizontal = 2
 grow_vertical = 2
 theme_override_fonts/font = ExtResource("1_1snxi")
+theme_override_font_sizes/font_size = 64
 text = "Dodge the Creeps!"
 horizontal_alignment = 1
 vertical_alignment = 1
@@ -50,7 +57,10 @@ offset_right = 25.5
 offset_bottom = -112.0
 grow_horizontal = 2
 grow_vertical = 0
+theme_override_colors/font_hover_color = Color(1, 0, 0.466667, 1)
 theme_override_fonts/font = ExtResource("1_1snxi")
+theme_override_font_sizes/font_size = 32
+shortcut = SubResource("Shortcut_bnn6p")
 text = "Start"
 
 [node name="MessageTimer" type="Timer" parent="."]
