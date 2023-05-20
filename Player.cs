@@ -8,7 +8,7 @@ public partial class Player : Area2D
 
   public override void _Ready()
   {
-    // Hide();
+    Hide();
     ScreenSize = GetViewportRect().Size;
   }
 
@@ -74,13 +74,13 @@ public partial class Player : Area2D
   {
     Hide();
     EmitSignal(SignalName.Hit);
-    GetNode<CollisionShape2D>("shape").SetDeferred(CollisionShape2D.PropertyName.Disabled, true);
+    GetNode<CollisionShape2D>("Collision").SetDeferred(CollisionShape2D.PropertyName.Disabled, true);
   }
 
   public void Start(Vector2 position)
   {
     Position = position;
     Show();
-    GetNode<CollisionShape2D>("shape").Disabled = false;
+    GetNode<CollisionShape2D>("Collision").Disabled = false;
   }
 }
